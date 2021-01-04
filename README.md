@@ -4,6 +4,6 @@ Group project, realization of a Pacman in C ++ for IUT informatique d'Aix-Marsei
 ## Team
 The whole team is working on the same program, all are at the Aix-Marseille IUT informatique.
 - JB Relave (Taz79)
-- Lucie Applagnat ()
+- Lucie Applagnat (lucieplgnt’s)
 - Clément ()
 - Lucas Charlier ()
