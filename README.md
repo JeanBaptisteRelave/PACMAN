@@ -8,7 +8,8 @@
 Projet de groupe, réalisation d'un pacman en c++ pour l'IUT informatique d'Aix-Marseille site d'Aix-en-provence.
 
 ## Team
- <img src="https://www.fashioncooking.fr/wp-content/plugins/wordpress-popup/assets/images/dev-team@2x.png" width="5%">
+<img src="https://www.fashioncooking.fr/wp-content/plugins/wordpress-popup/assets/images/dev-team@2x.png" width="30%"/>
+
 - JB Relave (Taz79)
 - Lucie Applagnat (lucieplgnt)
 - Clément ()
