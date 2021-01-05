@@ -2,7 +2,8 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="5%">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Univ_Aix-Marseille_-_IUT.svg/1280px-Univ_Aix-Marseille_-_IUT.svg.png" width="20%">
+  <img src="https://pbs.twimg.com/profile_images/560440414667157504/ZbRVuhQ0_400x400.png" width="5%">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Qt_Creator_Icon_Web.png" width="5%">
 </div>
 
 <br/>
