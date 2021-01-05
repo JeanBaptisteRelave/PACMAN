@@ -6,8 +6,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Qt_Creator_Icon_Web.png" width="5%">
 </div>
 
-<i>Projet de groupe, réalisation d'un pacman en c++ pour l'IUT informatique d'Aix-Marseille site d'Aix-en-provence.</i>
-
 <br/>
 
 ## Team
