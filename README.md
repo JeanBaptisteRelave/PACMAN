@@ -9,8 +9,8 @@ Projet de groupe, réalisation d'un pacman en c++ pour l'IUT informatique d'Aix-
 
 ## Team
 <div>
-  <img src="https://avatars3.githubusercontent.com/u/72251417?s=48&v=4" width="5%">
-  - JB Relave (Taz79)
+  <img src="https://avatars3.githubusercontent.com/u/72251417?s=48&v=4" width="5%" style="border-radius:10px;">
+  JB Relave (Taz79)
 </div>
 - Lucie Applagnat (lucieplgnt)
 - Clément ()
