@@ -11,5 +11,5 @@
 ## Team
 <img src="https://www.fashioncooking.fr/wp-content/plugins/wordpress-popup/assets/images/dev-team@2x.png" width="40%"/>
 
-- | <bold>JB Relave</bold> | <i>(Taz79)</i>
+- | <bold>[JB Relave][www.relave-jb.fr]</bold> | <i>(Taz79)</i>
 - | <bold>Lucie Applagnat</bold> | <i>(lucieplgnt)</i>
