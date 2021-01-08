@@ -13,8 +13,8 @@
 
 - | <bold><a href="http://www.relave-jb.fr" target="_blank">JB Relave</a></bold> | <i>(Taz79)</i>
 - | <bold>Lucie Applagnat</bold> | <i>(lucieplgnt)</i>
+- | <bold>Clément Samaar</bold> | <i>(karl667)</i>
 - | <bold>Lucas Charlier</bold> | <i>()</i>
-- | <bold>Clément ...</bold> | <i>()</i>
 
 
 ## Professeurs
