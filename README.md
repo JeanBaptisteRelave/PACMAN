@@ -18,7 +18,7 @@
 
 
 ## Professeurs
-<img src="https://lh3.googleusercontent.com/proxy/3XOSDTGZECkUdlT74zXC60GwEEQDubVTCahV7CYZY0kjItZZiTD5vpIClZuWoCkYeW4ZqZAFX3Yr6Ral5caWD-bOotcb" width="40%"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Lesprofs.png" width="40%"/>
 
 - | <bold>Alain Casali</bold>
 - | <bold>Marc Laporte</bold>
