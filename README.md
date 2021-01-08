@@ -15,3 +15,11 @@
 - | <bold>Lucie Applagnat</bold> | <i>(lucieplgnt)</i>
 - | <bold>Lucas Charlier</bold> | <i>()</i>
 - | <bold>Clément ...</bold> | <i>()</i>
+
+
+## Professeurs
+<img src="https://lh3.googleusercontent.com/proxy/3XOSDTGZECkUdlT74zXC60GwEEQDubVTCahV7CYZY0kjItZZiTD5vpIClZuWoCkYeW4ZqZAFX3Yr6Ral5caWD-bOotcb" width="40%"/>
+
+- | <bold>Alain Casali</bold>
+- | <bold>Marc Laporte</bold>
+
