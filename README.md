@@ -23,6 +23,8 @@
 - | <bold>Alain Casali</bold>
 - | <bold>Marc Laporte</bold>
 
-##Comment jouer ?
+<br/>
+
+## Comment jouer ?
 Ce PacMan est fait uniquement pour les systèmes Unix, car il utilise un système de couleurs dans le terminale qui ne fonctionnera pas sur la console de windows.
 
