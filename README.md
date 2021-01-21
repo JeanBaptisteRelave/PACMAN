@@ -100,4 +100,5 @@ Attention, si vous voulez modifier une map, et ne pas avoir de bug, veuillez lai
 - "x" : La où le joueur va spawner
 - "1", "2", "3", "4" : La où les 4 monstres vont spawner
 - "s" : Le spawn des monstres (après mort)
+<br/>
 Et ne pas ajouter de longueur ni de hauteur à la map !
