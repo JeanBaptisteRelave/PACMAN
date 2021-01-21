@@ -9,7 +9,6 @@
 <br/>
 
 ## Team
-<img src="https://www.fashioncooking.fr/wp-content/plugins/wordpress-popup/assets/images/dev-team@2x.png" width="20%"/>
 
 - | <bold><a href="http://www.relave-jb.fr" target="_blank">JB Relave</a></bold> | <i>(Taz79)</i>
 - | <bold>Lucie Applagnat</bold> | <i>(lucieplgnt)</i>
@@ -18,7 +17,6 @@
 
 
 ## Professeurs
-<img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Lesprofs.png" width="20%"/>
 
 - | <bold>Alain Casali</bold>
 - | <bold>Marc Laporte</bold>
