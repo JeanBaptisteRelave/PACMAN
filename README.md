@@ -35,8 +35,22 @@ Rendez vous sur un terminal (Linux/Mac), une fois dans le dossier PacMan execute
 ## Tutoriel
 # Menu
 Vous pouvez naviguer entre les options avec :
--[Flèche du haut]
--[Flèche du bas]
+- [Flèche du haut]
+- [Flèche du bas]
 Vous pouvez valider votre choix avec :
--[Entrée]
+- [Entrée]
 
+# Joueur
+Le joueur principal est représenté par :<br/>
+                  "O"
+<br/><br/>
+                 
+Il est de couleur bleue au départ.
+Puis de couleur rouge quand son super pouvoir est activé.
+              		
+Vous pouvez le déplacer avec :
+              
+- [Z] Vers le haut
+- [Q] Vers la droite
+- [S] Vers le bas
+- [D] Vers la gauche
