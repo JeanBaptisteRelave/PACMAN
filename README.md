@@ -41,7 +41,7 @@ Vous pouvez naviguer entre les options avec :
 - [Flèche du bas]
 <br/>
 Vous pouvez valider votre choix avec :<br/><br/>
-- [Entrée]
+  [Entrée]
 
 ## Joueur
 Le joueur principal est représenté par : "O"
@@ -67,11 +67,8 @@ Si le joueur mange un monstre, ce dernier réapparaîtra dans une zone de spawn 
 ## Bonbons
 Les bonbons sont représentés par : "*" <br/>
 
-Si vous passez dessus, vous augmenterez votre stock de bonbons
-Afin de finir un niveau vous devez prendre tous les bonbons
-
+Si vous passez dessus, vous augmenterez votre stock de bonbons afin de finir un niveau vous devez prendre tous les bonbons
 <br/>
-
 Vous aurez votre stock de bonbons affiché en haut à gauche
 
 ## Supers Bonbons
