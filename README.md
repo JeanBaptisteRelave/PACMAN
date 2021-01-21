@@ -23,7 +23,7 @@
 <br/>
 
 ## Comment jouer ?
-Ce PacMan est fait uniquement pour les systèmes Unix, car il utilise un système de couleurs dans le terminale qui ne fonctionnera pas sur la console de windows.
+Ce PacMan est fait uniquement pour les systèmes Unix, car il utilise un système de couleurs dans le terminal qui ne fonctionnera pas sur la console de windows.
 <br/>
 Rendez vous sur un terminal (Linux/Mac), une fois dans le dossier PacMan executer le fichier :
 <br/>
