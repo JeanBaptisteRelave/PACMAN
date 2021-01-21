@@ -32,8 +32,8 @@ Rendez vous sur un terminal (Linux/Mac), une fois dans le dossier PacMan execute
 ./PacMan  
 </code>
 
-## Tutoriel
-# Menu
+# Tutoriel
+## Menu
 Vous pouvez naviguer entre les options avec :
 - [Flèche du haut]
 - [Flèche du bas]
@@ -41,7 +41,7 @@ Vous pouvez naviguer entre les options avec :
 Vous pouvez valider votre choix avec :
 - [Entrée]
 
-# Joueur
+## Joueur
 Le joueur principal est représenté par : "O"
 <br/>
 Il est de couleur bleue au départ.<br/>
