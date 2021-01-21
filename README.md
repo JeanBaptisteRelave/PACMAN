@@ -85,7 +85,6 @@ Votre super pouvoir ne dure qu'un certains temps, vous pouvez voir le temps rest
 
 # TRICHE !!
 Si vous voulez débloquer tous les niveaux vous avez juste à remplacer le nombre dans le fichier :
-
 <code>
 Nos_fichiers/saves/level.txt  
 </code>
@@ -93,3 +92,9 @@ Nos_fichiers/saves/level.txt
 <br/>
 
 par "3" =)
+
+<br/><br/>
+Attention, si vous voulez modifier une map, et ne pas avoir de bug, veuillez laisser :
+- "x" : La où le joueur va spawner
+- "1", "2", "3", "4" : La où les 4 monstres vont spawner
+- "s" : Le spawn des monstres (après mort)
