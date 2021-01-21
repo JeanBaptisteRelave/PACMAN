@@ -80,3 +80,10 @@ Et vous pourez manger les monstres et ne pas vous faire manger pas ces derniers
 <br/>
     
 Votre super pouvoir ne dure qu'un certains temps, vous pouvez voir le temps restant en haut de l'écran.
+
+# TRICHE !!
+Si vous voulez débloquer tous les niveaux vous avez juste à remplacer le nombre dans le fichier :
+<code>
+Nos_fichiers/saves/level.txt  
+</code>
+par "3" =)
