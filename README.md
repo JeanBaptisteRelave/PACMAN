@@ -86,8 +86,6 @@ Votre super pouvoir ne dure qu'un certains temps, vous pouvez voir le temps rest
 # TRICHE !!
 Si vous voulez débloquer tous les niveaux vous avez juste à remplacer le nombre dans le fichier :
 
-<br/>
-
 <code>
 Nos_fichiers/saves/level.txt  
 </code>
