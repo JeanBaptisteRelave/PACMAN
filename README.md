@@ -40,7 +40,7 @@ Vous pouvez naviguer entre les options avec :
 - [Flèche du haut]
 - [Flèche du bas]
 <br/>
-Vous pouvez valider votre choix avec :<br/>
+Vous pouvez valider votre choix avec :<br/><br/>
 - [Entrée]
 
 ## Joueur
