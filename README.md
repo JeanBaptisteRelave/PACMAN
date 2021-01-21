@@ -40,7 +40,7 @@ Vous pouvez naviguer entre les options avec :
 - [Flèche du haut]
 - [Flèche du bas]
 <br/>
-Vous pouvez valider votre choix avec :
+Vous pouvez valider votre choix avec :<br/>
 - [Entrée]
 
 ## Joueur
@@ -55,3 +55,31 @@ Vous pouvez le déplacer avec :
 - [Q] Vers la droite
 - [S] Vers le bas
 - [D] Vers la gauche
+
+## Monstres
+Les monstres sont représentés par : "X"<br/>
+
+Il ont chacun une couleur et deviennent bleus quand ils sont vulnérables
+Si le joueur croise un monstre et qu'il n'a pas le super pouvoir il perd...
+<br/>
+Si le joueur mange un monstre, ce dernier réapparaîtra dans une zone de spawn au bout d'un certain temps
+
+## Bonbons
+Les bonbons sont représentés par : "*" <br/>
+
+Si vous passez dessus, vous augmenterez votre stock de bonbons
+Afin de finir un niveau vous devez prendre tous les bonbons
+
+<br/>
+
+Vous aurez votre stock de bonbons affiché en haut à gauche
+
+## Supers Bonbons
+Les supers bonbons sont représentés par : "0" <br/>
+              		
+Si vous passez dessus, vous activerez votre super pouvoir
+Et vous pourez manger les monstres et ne pas vous faire manger pas ces derniers
+    
+<br/>
+    
+Votre super pouvoir ne dure qu'un certains temps, vous pouvez voir le temps restant en haut de l'écran.
