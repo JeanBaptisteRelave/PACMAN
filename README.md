@@ -32,3 +32,11 @@ Rendez vous sur un terminal (Linux/Mac), une fois dans le dossier PacMan execute
 ./PacMan  
 </code>
 
+## Tutoriel
+# Menu
+Vous pouvez naviguer entre les options avec :
+-[Flèche du haut]
+-[Flèche du bas]
+Vous pouvez valider votre choix avec :
+-[Entrée]
+
