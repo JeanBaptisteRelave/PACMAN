@@ -37,16 +37,15 @@ Rendez vous sur un terminal (Linux/Mac), une fois dans le dossier PacMan execute
 Vous pouvez naviguer entre les options avec :
 - [Flèche du haut]
 - [Flèche du bas]
+<br/>
 Vous pouvez valider votre choix avec :
 - [Entrée]
 
 # Joueur
-Le joueur principal est représenté par :<br/>
-                  "O"
-<br/><br/>
-                 
-Il est de couleur bleue au départ.
-Puis de couleur rouge quand son super pouvoir est activé.
+Le joueur principal est représenté par : "O"
+<br/>
+Il est de couleur bleue au départ.<br/>
+Puis de couleur rouge quand son super pouvoir est activé.<br/>
               		
 Vous pouvez le déplacer avec :
               
